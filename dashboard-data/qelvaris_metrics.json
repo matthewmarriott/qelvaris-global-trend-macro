@@ -1,0 +1,50 @@
+[
+  {
+    "metric": "Total Return",
+    "value": -0.3410852055552724
+  },
+  {
+    "metric": "CAGR",
+    "value": -0.0395366371502806
+  },
+  {
+    "metric": "Annualised Volatility",
+    "value": 0.0810336531437172
+  },
+  {
+    "metric": "Sharpe Ratio",
+    "value": -0.4573493784587238
+  },
+  {
+    "metric": "Sortino Ratio",
+    "value": -0.5985742324438411
+  },
+  {
+    "metric": "Maximum Drawdown",
+    "value": -0.3578902455472145
+  },
+  {
+    "metric": "Calmar Ratio",
+    "value": -0.1104714018953746
+  },
+  {
+    "metric": "Win Rate",
+    "value": 0.4942680776014109
+  },
+  {
+    "metric": "Average Daily Turnover",
+    "value": 0.2043469273630863
+  },
+  {
+    "metric": "Best Calendar Year",
+    "value": 0.1382151500804649
+  },
+  {
+    "metric": "Worst Calendar Year",
+    "value": -0.1579071075891327
+  },
+  {
+    "metric": "Final Equity",
+    "value": 0.6589147944447276
+  }
+]
