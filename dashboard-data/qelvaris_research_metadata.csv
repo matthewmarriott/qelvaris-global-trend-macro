@@ -1,0 +1,19 @@
+Field,Value
+Strategy,Qelvaris Global Trend Macro
+Version,v0.1
+Strategy Type,Systematic Global Trend Following
+Markets,16
+Asset Classes,"Rates, Equities, Commodities, FX"
+Signal Frequency,Daily
+Momentum Windows,1M / 3M / 6M / 12M
+Momentum Weights,20% / 30% / 30% / 20%
+Moving Averages,20 / 50 / 200 day
+Breakout,252-day
+Volatility Window,20 / 60 day
+Position Sizing,Inverse Volatility
+Target Volatility,10%
+Transaction Cost,5 bps
+Position Lag,1 day
+Benchmark,S&P 500
+Data Source,Yahoo Finance
+Status,Research Prototype
